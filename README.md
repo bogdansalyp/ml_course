@@ -65,5 +65,7 @@
 ### 12. Рекуррентные нейронные сети
 
 ## Автор
+
 Богдан Салып (brairnet)
-brairnet.github.io
+
+<brairnet.github.io>
