@@ -2,7 +2,7 @@
 
 В репозитории нахoдятся реализации самых распространённых техник машинного обучения и нейронных сетей с помощью самых популярных на данный момент фреймворков.
 
-## Список реализованных технологий
+## Список файлов
 
 ### Обучение с учителем
 
@@ -11,8 +11,8 @@
 * Многоклассовая классификация ([с нуля](./softmax_from_scratch.ipynb), [scikit-learn](./softmax_sklearn.ipynb), [TensorFlow](./softmax_tensorflow.ipynb), [PyTorch](./softmax_pytorch.ipynb), [Keras](./softmax_keras.ipynb))
 * Метод k-ближайших соседей ([с нуля](./knn_from_scratch.ipynb), [scikit-learn](./knn_sklearn.ipynb))
 * Предобработка данных ([NumPy & Pandas](./data_preprocessing.ipynb))
-* Регуляризация ()
-* Оценка моделей
+* Регуляризация ([с нуля](./regularization_from_scratch.ipynb), [scikit-learn](./regularization_sklearn.ipynb))
+* Оценка моделей ([NumPy & scikit-learn](./evaluation.ipynb))
 
 ### Нейронные сети
 * Многослойный перцептрон ([с нуля](./multilayer_perceptron_from_scratch.ipynb), [scikit-learn](./multilayer_perceptron_sklearn.ipynb), [TensorFlow](./multilayer_perceptron_tensorflow.ipynb), [PyTorch](./multilayer_perceptron_pytorch.ipynb), [Keras](./multilayer_perceptron_keras.ipynb))
@@ -22,11 +22,21 @@
     
 ### Обучение без учителя
 
-* Кластеринг 
+* Метод k-средних ([с нуля](./k_means_from_scratch.ipynb), [scikit-learn](./k_means_sklearn.ipynb))
 
 ### Обучение с подкреплением
 
-* Q-обучение
+* Q-обучение ([с нуля](./q_learning.ipynb))
+
+### Работа с фреймворками
+
+* [Jupyter Notebook](./jupyter.ipynb)
+* [NumPy](./numpy.ipynb)
+* [Pandas](./pandas.ipynb)
+* [Matplotlib](./matplotlib.ipynb)
+* [TensorFlow](./tensorflow.ipynb)
+* [PyTorch](./pytorch.ipynb)
+* [Keras](./keras.ipynb)
 
 ## Главы курса
 
@@ -53,3 +63,7 @@
 ### 11. Свёрточные нейронные сети
 
 ### 12. Рекуррентные нейронные сети
+
+## Автор
+Богдан Салып (brairnet)
+brairnet.github.io
