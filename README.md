@@ -68,4 +68,4 @@
 
 Богдан Салып (brairnet)
 
-[brairnet.github.io](brairnet.github.io)
+[brairnet.github.io](https://brairnet.github.io/)
