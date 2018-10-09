@@ -6,22 +6,23 @@
 
 ### Обучение с учителем
 
-* Линейная регрессия ([с нуля](./linear_regression_from_scratch.ipynb), )
-* Логистическая регрессия
-* Многоклассовая классификация
-* Метод k-ближайших соседей
-* Предобработка данных
-* Регуляризация
+* Линейная регрессия ([с нуля](./linear_regression_from_scratch.ipynb), [scikit-learn](./linear_regression_sklearn.ipynb), [TensorFlow](./linear_regression_tensorflow.ipynb), [PyTorch](./linear_regression_pytorch.ipynb), [Keras](./linear_regression_keras.ipynb))
+* Логистическая регрессия ([NumPy](./logistic_regression_from_scratch.ipynb), [scikit-learn](./logistic_regression_sklearn.ipynb), [на TensorFlow](./logistic_regression_tensorflow.ipynb), [PyTorch](./logistic_regression_pytorch.ipynb), [Keras](./logistic_regression_keras.ipynb))
+* Многоклассовая классификация ([с нуля](./softmax_from_scratch.ipynb), [scikit-learn](./softmax_sklearn.ipynb), [TensorFlow](./softmax_tensorflow.ipynb), [PyTorch](./softmax_pytorch.ipynb), [Keras](./softmax_keras.ipynb))
+* Метод k-ближайших соседей ([с нуля](./knn_from_scratch.ipynb), [scikit-learn](./knn_sklearn.ipynb))
+* Предобработка данных ([NumPy & Pandas](./data_preprocessing.ipynb))
+* Регуляризация ()
 * Оценка моделей
 
 ### Нейронные сети
-* Многослойный перцептрон
-* Свёрточные нейронные сети
-* Рекуррентные нейронные сети
+* Многослойный перцептрон ([с нуля](./multilayer_perceptron_from_scratch.ipynb), [scikit-learn](./multilayer_perceptron_sklearn.ipynb), [TensorFlow](./multilayer_perceptron_tensorflow.ipynb), [PyTorch](./multilayer_perceptron_pytorch.ipynb), [Keras](./multilayer_perceptron_keras.ipynb))
+* Свёрточная нейронная сеть ([TensorFlow](./cnn_tensorflow.ipynb), [PyTorch](./cnn_pytorch.ipynb), [Keras](./cnn_keras.ipynb))
+* Рекуррентная нейронная сеть ([TensorFlow](./rnn_tensorflow.ipynb), [PyTorch](./rnn_pytorch.ipynb), [Keras](./rnn_keras.ipynb))
+* LSTM ([TensorFlow](./lstm_tensorflow.ipynb), [PyTorch](./lstm_pytorch.ipynb), [Keras](./lstm_keras.ipynb))
     
 ### Обучение без учителя
 
-* Кластеринг
+* Кластеринг 
 
 ### Обучение с подкреплением
 
